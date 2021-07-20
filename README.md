@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/51751926/126301870-79baa375-8084-4632-
 - You can test openboard by clicking [here](https://open-board16.herokuapp.com/)
 - To run it in your local system follow the steps below 
     - ```git clone https://github.com/amey16/Openboard.git```
-    - change the socket connection go to public/js/tool.js and add your local server link
+    - change the socket connection - Go to public/js/tool.js and add your local server link instead of deployment link
     - you are ready to test it out now 😄
 
 # Tools used
